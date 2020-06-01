@@ -1,4 +1,3 @@
-// A simple web server with go
 // An addition of the counter functionalities to the webserver.go
 //NOTE
 // Check wserver.go file for instruction on how to run this locally
